@@ -3,7 +3,7 @@ title SMB Bruteforce
 color A
 echo.
 
-echo This password cracker was made by @DellUserVS. Please use this software at your own risk. We are not responsible for any loss.
+echo [This password cracker was made by @DellUserVS. Please use this software at your own risk. We are not responsible for any loss.]
 
 echo.
 
