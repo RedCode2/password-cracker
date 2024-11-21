@@ -1,6 +1,6 @@
 # Password cracker
 
-## Please use this software at your own risk. We are not responsible for any loss
+## Please use this software at your own risk. We are not responsible for any activities you did through this application.
 
 ## How to setup and use?
 
